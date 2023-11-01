@@ -11,12 +11,36 @@
         {
             "label": {
                 "none": [
+                    "Cidade"
+                ]
+            },
+            "value": {
+                "none": [
+                    "São Desidério-BA"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
                     "Creator"
                 ]
             },
             "value": {
                 "none": [
                     "Almir Brito Jr."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Episódio"
+                ]
+            },
+            "value": {
+                "none": [
+                    "OLAM 1"
                 ]
             }
         }

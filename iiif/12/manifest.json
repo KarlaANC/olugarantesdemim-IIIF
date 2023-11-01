@@ -31,6 +31,18 @@
                     "Fotografia"
                 ]
             }
+        },
+        {
+            "label": {
+                "none": [
+                    "Episódio"
+                ]
+            },
+            "value": {
+                "none": [
+                    "OLAM 3"
+                ]
+            }
         }
     ],
     "requiredStatement": {

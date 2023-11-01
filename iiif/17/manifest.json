@@ -31,13 +31,25 @@
                     "Fotografia"
                 ]
             }
+        },
+        {
+            "label": {
+                "none": [
+                    "Episódio"
+                ]
+            },
+            "value": {
+                "none": [
+                    "OLAM 3"
+                ]
+            }
         }
     ],
     "requiredStatement": {
         "label": "Atribuição",
         "value": "Disponibiliado por Ampler Cine TV Novas Mídias"
     },
-    "rights": "Todos os direitos reservados. Almir Brito Jr.",
+    "rights": "https://rightsstatements.org/page/CNE/1.0/",
     "thumbnail": [
         {
             "id": "https://olugarantesdemim-IIIF.vercel.app/17/0a3ddb9a84eb534a3d8d58480bd15d42/full/300,200/0/default.jpg",

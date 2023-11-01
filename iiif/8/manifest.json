@@ -11,6 +11,18 @@
         {
             "label": {
                 "none": [
+                    "Cidade"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Paranaguá-PR"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
                     "Creator"
                 ]
             },
@@ -29,6 +41,18 @@
             "value": {
                 "none": [
                     "Fotografia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Episódio"
+                ]
+            },
+            "value": {
+                "none": [
+                    "OLAM 3"
                 ]
             }
         }

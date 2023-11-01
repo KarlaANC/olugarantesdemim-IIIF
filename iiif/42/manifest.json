@@ -11,12 +11,36 @@
         {
             "label": {
                 "none": [
+                    "Cidade"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Foz do Iguaçu-PR"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
                     "Creator"
                 ]
             },
             "value": {
                 "none": [
                     "Claudete Luginieski"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Episódio"
+                ]
+            },
+            "value": {
+                "none": [
+                    "OLAM TV"
                 ]
             }
         }
