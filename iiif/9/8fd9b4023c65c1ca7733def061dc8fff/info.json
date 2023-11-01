@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://olugarantesdemim-IIIF.vercel.app/9/8fd9b4023c65c1ca7733def061dc8fff",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "width": 256
+    }
+  ],
+  "width": 4671,
+  "height": 3114,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 200
+    },
+    {
+      "width": 2000,
+      "height": 1333
+    }
+  ]
+}

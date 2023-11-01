@@ -1,0 +1,273 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://olugarantesdemim-IIIF.vercel.app/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "O Lugar Antes de Mim"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/1/256f71b415fa2ba085f0d0ad2faf3b50/full/300,200/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 200,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Zoósteo"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/10/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ilha da Banana"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/11/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Equipe"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/12/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Paisagem"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/13/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Paisagem"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/14/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Entrevistada Claudia Parellada"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/15/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Sambaqui Foz do Rio Poruquara"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/16/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Sambaqui Foz do Rio Poruquara"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/17/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Entrevistado Laércio Brochier"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/18/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Paisagem"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/19/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Guarás"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/2/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Making of "
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/20/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Paisagem"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/21/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Sambaqui Foz do Rio Poruquara"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/22/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Barco na Baía de Guaraqueçaba"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/23/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Pescador na Baía de Guaraqueçaba"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/41/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Making of "
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/42/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Making of "
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/43/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Making of "
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/44/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Paisagem"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/45/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Gruta das Pedras Brilhantes"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/4/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Pôr do sol"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/9/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ilha da Banana"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Centro Histórico de Paranaguá"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/7/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Zoólito do Museu Arqueológico de Sambaqui de Joinville "
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/6/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Entrevistado Marcos Gernet"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/5/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Praia Mansa de Matinhos"
+                ]
+            }
+        },
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/3/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Entrevistada Tatiane"
+                ]
+            }
+        }
+    ]
+}

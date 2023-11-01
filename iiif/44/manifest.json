@@ -1,0 +1,97 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://olugarantesdemim-IIIF.vercel.app/44/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Paisagem"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Almir Brito Jr."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Atribuição",
+        "value": "Disponibiliado por Ampler Cine TV Novas Mídias"
+    },
+    "rights": "https://rightsstatements.org/page/CNE/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/44/ef1272956302014c458e021e2159d1dc/full/200,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 200
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/44/canvas/0",
+            "type": "Canvas",
+            "height": 4948,
+            "width": 3299,
+            "items": [
+                {
+                    "id": "https://olugarantesdemim-IIIF.vercel.app/44/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://olugarantesdemim-IIIF.vercel.app/44/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://olugarantesdemim-IIIF.vercel.app/44/canvas/0",
+                            "body": {
+                                "id": "https://olugarantesdemim-IIIF.vercel.app/44/ef1272956302014c458e021e2159d1dc/full/1333,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1333,
+                                "service": [
+                                    {
+                                        "id": "https://olugarantesdemim-IIIF.vercel.app/44/ef1272956302014c458e021e2159d1dc",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

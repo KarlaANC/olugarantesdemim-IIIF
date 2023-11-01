@@ -1,0 +1,81 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://olugarantesdemim-IIIF.vercel.app/43/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Making of "
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Claudete Luginieski"
+                ]
+            }
+        }
+    ],
+    "rights": "https://rightsstatements.org/page/CNE/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/43/a57d14f2a1e8ae47d9b5a645f0ca7966/full/300,200/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 200,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/43/canvas/0",
+            "type": "Canvas",
+            "height": 4000,
+            "width": 6000,
+            "items": [
+                {
+                    "id": "https://olugarantesdemim-IIIF.vercel.app/43/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://olugarantesdemim-IIIF.vercel.app/43/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://olugarantesdemim-IIIF.vercel.app/43/canvas/0",
+                            "body": {
+                                "id": "https://olugarantesdemim-IIIF.vercel.app/43/a57d14f2a1e8ae47d9b5a645f0ca7966/full/2000,1333/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1333,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://olugarantesdemim-IIIF.vercel.app/43/a57d14f2a1e8ae47d9b5a645f0ca7966",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://olugarantesdemim-IIIF.vercel.app/6/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Entrevistado Marcos Gernet"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Almir Brito Jr."
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Atribuição",
+        "value": "Disponibiliado por Ampler Cine TV Novas Mídias"
+    },
+    "rights": "Todos os direitos reservados. Almir Brito Jr.",
+    "thumbnail": [
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/6/6ceac1030f8dd316845f11f9b4aa57c2/full/300,200/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 200,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://olugarantesdemim-IIIF.vercel.app/6/canvas/0",
+            "type": "Canvas",
+            "height": 3698,
+            "width": 5547,
+            "items": [
+                {
+                    "id": "https://olugarantesdemim-IIIF.vercel.app/6/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://olugarantesdemim-IIIF.vercel.app/6/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://olugarantesdemim-IIIF.vercel.app/6/canvas/0",
+                            "body": {
+                                "id": "https://olugarantesdemim-IIIF.vercel.app/6/6ceac1030f8dd316845f11f9b4aa57c2/full/2000,1333/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1333,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://olugarantesdemim-IIIF.vercel.app/6/6ceac1030f8dd316845f11f9b4aa57c2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
